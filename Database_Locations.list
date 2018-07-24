@@ -1,0 +1,46 @@
+#=========================================================================#
+#    "Data Type"                                        "Database Path"   #
+#=========================================================================#
+#    "XML-File"                                              "Path"       #
+Facebook User,Times,Account info           /data/data/com.facebook.katana/shared_prefs/*.xml
+Facebook Users Email adress etc            /data/data/com.facebook.katana/shared_prefs/com.facebook.orca_preferences.xml
+Facebook Msngr User,Times,Account info     /data/data/com.facebook.orca/shared_prefs/*.xml
+Facebook Msngr Users Email adress etc      /data/data/com.facebook.orca/shared_prefs/com.facebook.orca_preferences.xml
+#=========================================================================#
+#    "SQLite-General"                                   "Database Path"   #
+Facebook Account Info                      /data/data/com.facebook.katana/databases/prefs_db
+Facebook Contacts                          /data/data/com.facebook.katana/databases/contacts_db2
+Facebook Messages                          /data/data/com.facebook.katana/databases/threads_db2
+Facebook Messenger Contacts                /data/data/com.facebook.orca/databases/contacts_db2
+Facebook Messenger Messages                /data/data/com.facebook.orca/databases/threads_db2
+Facebook Messenger Account Info            /data/data/com.facebook.orca/databases/prefs_db.
+Facebook Messenger lite messages           /data/data/com.facebook.mlite/databases/
+Gmail databases                            /data/data/com.google.android.gm/databases/
+WhatsApp Contacts                          /data/data/com.whatsapp/databases/wa.db
+WhatsApp Messages & Calls                  /data/data/com.whatsapp/databases/msgstore.db
+#=========================================================================#
+#    "SQLite-Other"                                     "Database Path"   #
+Blackberry Messenger (BBM) Chat Messages   /data/data/com.bbm/files/bbmcore/master.db
+Calendar                                   /data/com.android.providers.calendar/databases/calendar.db
+Call logs register                         /data/data/com.android.providers.contacts/databases/contacts2.db
+Phonebook Contacts                         /data/data/com.android.providers.contacts/databases/contacts2.db
+Call logs register (Samsung)               /data/data/com.sec.android.provider.logsprovider/databases/logs.db
+Default Browser Passwords                  /data/data/com.android.browser/databases/webview.db
+Default Browsers History                   /data/data/com.android.browser/databases/browser2.db
+Dictionary                                 /data/user/comc.android.providers.userdictionary/databases/user_dict.db
+Dolphin Web Browser History                /data/data/mobi.mgeek.TunnyBrowser/db/browser.db
+Google Chrome History                      /data/data/com.android.chrome/app_chrome/Default/History
+Google Chrome Login Data (Passwords)       /data/data/com.android.chrome/app_chrome/Default/Login Data
+Kik Messenger chat messages                /data/data/kik.android/databases/kikDatabase.db
+Log                                        /data/com.sec.android.provider.logsprovider/databases/logs.db
+MeowChat Messages                          /data/data/com.minus.android/databases/com.minus.android
+Samsung SMS snippets                       /data/data/com.sec.android.provider.logsprovider/databases/logs.db
+SMS, MMS messages                          /data/data/com.android.providers.telephony/databases/mmssms.db
+Skype Calls / Messages                     /data/data/com.skype.raider/files/<account_name>/main.db
+Users data|Synchronised Accounts           /data/system/users/0/accounts.db
+Tinder messages & users                    /data/data/com.tinder/databases/tinder.db
+Viber calls register                       /data/data/com.viber.voip/databases/viber_data
+Viber chat messages                        /data/data/com.viber.voip/databases/viber_messages
+Web-browser history                        /data/data/com.android.browser/databases/browser2.db
+Wi-Fi passwords (WPA-PSK/WEP)              /data/misc/wifi/wpa_supplicant.conf
+#=========================================================================#
