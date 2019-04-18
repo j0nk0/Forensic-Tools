@@ -2,7 +2,7 @@
 import sys, os, optparse
 from PIL import Image
 from PIL.ExifTags import TAGS
-from common_tools import *
+from common_methods import *
 
 
 def getExif(image_file, save=True, verbose=True):
